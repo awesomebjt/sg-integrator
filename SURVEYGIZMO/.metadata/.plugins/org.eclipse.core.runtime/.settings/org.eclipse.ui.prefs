@@ -1,0 +1,4 @@
+#Mon Oct 29 21:23:28 EDT 2012
+workspaceTasksDone=org.talend.core.InitConnectionsMigrationTask|org.talend.migrationTool.InitWorkspaceMigrationTask|org.talend.designer.core.ui.preferences.migration.AddQuotesForStatLogsPreference
+eclipse.preferences.version=1
+connections=local\#Local\#Default connection\#test@talend.com\#\#/home/benjamin/Jobs/SURVEYGIZMO/process\#true
